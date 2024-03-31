@@ -1,0 +1,204 @@
+%PDF-1.4
+1 0 obj
+  << /Type /Catalog
+      /Outlines 2 0 R
+      /Pages 3 0 R
+  >>
+endobj
+
+2 0 obj
+  << /Type /Outlines
+      /Count 0
+  >>
+endobj
+
+3 0 obj
+  << /Type /Pages
+      /Kids [ 4 0 R ]
+      /Count 1
+  >>
+endobj
+
+4 0 obj
+  << /Type /Page
+      /Parent 3 0 R
+      /MediaBox [ 0 0 612 792 ]
+      /Contents 5 0 R
+      /Resources << /ProcSet 6 0 R
+      /Font << /F1 7 0 R >>
+  >>
+>>
+endobj
+
+5 0 obj
+  << /Length 73 >>
+stream
+  BT
+    /F1 24 Tf
+    69.2500 688.6080 Td
+    ( Hello World ) Tj
+  ET
+  BT
+    /F1 24 Tf
+    69.2500 658.6080 Td
+    ( Hello World today ) Tj
+  ET
+  BT
+    /F1 12 Tf
+    71.2300 638.6080 Td
+    ( ...continued from page 1. Yet more text. And more text. And more text. ) Tj
+  ET
+  BT
+    /F1 24 Tf
+    69.2300 608.6080 Td
+    ( Hello World today ) Tj
+  ET
+  BT
+    /F1 16 Tf
+    69.2300 578.6080 Td
+    ( text. Oh, how boring typing this stuff. But not as boring as watching ) Tj
+  ET
+  BT
+    /F1 12 Tf
+    71.2300 558.6080 Td
+    ( paint dry. And more text. And more text.) Tj
+  ET
+  BT
+    /F1 24 Tf
+     69.2300 528.6080 Td
+    ( Boring.  More, a little more text.  ) Tj
+  ET
+  BT
+    /F1 12 Tf
+    71.2300 510.6080 Td
+    ( text. Oh, how boring typing this stuff. But not as boring as watching ) Tj
+  ET
+  BT
+    /F1 24 Tf
+    69.2300 480.6080 Td
+    ( Hello World today ) Tj
+  ET
+  BT
+    /F1 15 Tf
+    69.2300 458.6080 Td
+    ( text. Oh, how boring typing this stuff. But not as boring as watching ) Tj
+  ET
+  BT
+    /F1 12 Tf
+    71.2300 440.6080 Td
+    ( text. Oh, how boring typing this stuff. But not as boring as watching ) Tj
+  ET
+  BT
+    /F1 24 Tf
+    69.2300 410.6080 Td
+    ( Hello World today ) Tj
+  ET
+  BT
+    /F1 15 Tf
+    71.2300 390.6080 Td
+    ( text. Oh, how boring typing this stuff. But not as boring as watching ) Tj
+  ET
+  BT
+    /F1 12 Tf
+    69.2300 370.6080 Td
+    ( text. Oh, how boring typing this stuff. But not as boring as watching ) Tj
+  ET
+  BT
+    /F1 12 Tf
+    71.2300 350.6080 Td
+    ( paint dry. And more text. And more text.) Tj
+  ET
+  BT
+    /F1 15 Tf
+     69.2300 320.6080 Td
+    ( Boring.  More, a little more text.  ) Tj
+  ET
+  BT
+    /F1 12 Tf
+    71.2300 290.6080 Td
+    ( text. Oh, how boring typing this stuff. But not as boring as watching ) Tj
+  ET
+  BT
+    /F1 24 Tf
+    69.2300 260.6080 Td
+    ( Hello World today ) Tj
+  ET
+  BT
+    /F1 15 Tf
+    69.2300 230.6080 Td
+    ( text. Oh, how boring typing this stuff. But not as boring as watching ) Tj
+  ET
+  BT
+    /F1 12 Tf
+    71.2300 210.6080 Td
+    ( text. Oh, how boring typing this stuff. But not as boring as watching ) Tj
+  ET
+  BT
+    /F1 24 Tf
+    69.2300 190.6080 Td
+    ( Hello World today ) Tj
+  ET
+  BT
+    /F1 15 Tf
+    71.2300 150.6080 Td
+    ( text. Oh, how boring typing this stuff. But not as boring as watching ) Tj
+  ET
+  BT
+    /F1 15 Tf
+    69.2300 130.6080 Td
+    ( text. Oh, how boring typing this stuff. But not as boring as watching ) Tj
+  ET
+  BT
+    /F1 12 Tf
+    71.2300 110.6080 Td
+    ( text. Oh, how boring typing this stuff. But not as boring as watching ) Tj
+  ET
+  BT
+    /F1 24 Tf
+    69.2300 90.6080 Td
+    ( Hello World today ) Tj
+  ET
+  BT
+    /F1 15 Tf
+    71.2300 60.6080 Td
+    ( text. Oh, how boring typing this stuff. But not as boring as watching ) Tj
+  ET
+  BT
+    /F1 15 Tf
+    71.2300 20.6080 Td
+    ( text. Oh, how boring typing this stuff. But not as boring as watching ) Tj
+  ET
+endstream
+endobj
+
+6 0 obj
+  [ /PDF /Text ]
+endobj
+
+7 0 obj
+  << /Type /Font
+    /Subtype /Type1
+    /Name /F1
+    /BaseFont /Helvetica
+    /Encoding /MacRomanEncoding
+  >>
+endobj
+
+xref
+0 8
+0000000000 65535 f
+0000000009 00000 n
+0000000074 00000 n
+0000000120 00000 n
+0000000179 00000 n
+0000000364 00000 n
+0000000466 00000 n
+0000000496 00000 n
+
+trailer
+  << /Size 8
+    /Root 1 0 R
+  >>
+startxref
+625
+%%EOF
